@@ -16,13 +16,14 @@ scalable, accessible, and high-performance web applications.
 
 Focused on delivering clean code and intuitive user experiences.
 
-> capabilities
-✔ Build responsive and accessible web applications.
-✔ Develop reusable React and Next.js components.
-✔ Integrate REST APIs and handle asynchronous data.
-✔ Convert Figma designs into pixel-perfect interfaces.
-✔ Optimize performance and user experience.
-✔ Write clean, maintainable, and scalable code.
+> ####  Capabilities
+>
+> - Build responsive and accessible web applications.
+> - Develop reusable React and Next.js components.
+> - Integrate REST APIs and handle asynchronous data.
+> - Convert Figma designs into pixel-perfect interfaces.
+> - Optimize performance and user experience.
+> - Write clean, maintainable, and scalable code.
 
 ### Connect with Me :
 
